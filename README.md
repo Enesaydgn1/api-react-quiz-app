@@ -1,3 +1,5 @@
+ön izleme için => https://aydgnenes-react-quiz-app.netlify.app
+
 ![quiz](https://user-images.githubusercontent.com/65818129/222970828-ee1d9d42-1426-47d1-a7d8-d05f9e740dee.png)
 
 
